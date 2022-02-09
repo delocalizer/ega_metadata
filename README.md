@@ -8,3 +8,4 @@ The main takeaway should be that it's not too difficult:
 1. write some methods to map your database results to dataclass instances
 1. serialize to XML
 1. upload the XML to EGA via the REST API
+1. bin/prepare_data.sh file is not the subtree for the Python tools code
